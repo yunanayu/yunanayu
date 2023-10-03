@@ -10,12 +10,6 @@
 ![이미지](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk10B6itZHwj_RziOhGYWsJ3y6c2xVlX9Vkg&usqp=CAU)
 
 ---
-### 앞으로의 목표 
-
-```
-1. 아직 명확하게 정하지 못한 관심분야를 최대한 빠르게 찾기
-2. 취업!!!!!
-```
 ### SSAFY 생활목표
 ```
 1. 체력관리
