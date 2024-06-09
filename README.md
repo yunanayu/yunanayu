@@ -10,7 +10,7 @@
 
 ### 도전을 멈추지 않는 프론트엔드 개발자 정유나 입니다💨📢
 
-<a href="https://sugared-sense-1d0.notion.site/bd25c48c01134866a2cc99e8c398c951?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"></a>
+
 <a href="naver.com" target="_blank"><img src="https://img.shields.io/badge/jyn1827@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"></a>
 
 </div>
